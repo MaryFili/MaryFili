@@ -1,5 +1,5 @@
 <br/>
- Hello, I´m Mary Filardi (she/her)
+ <p align="center"> Hello, I´m Mary Filardi (she/her) </p>
 <br/>
 <p align="center">🤓 I am a Web Dev student and a </p>
      <p align="center"> 😀 Fabulous 😀 </p>
