@@ -1,8 +1,8 @@
 <br/>
-#Hello, I´m Mary Filardi (she/her)
+# Hello, I´m Mary Filardi (she/her)
 <br/>
-🤓 I am a Web Dev student and a 
-       😀 Fabulous 😀
-           Junior 
-  Full Stack Web Developer 
-        🚀 soon 🚀
+<p>🤓 I am a Web Dev student and a </p>
+     <p>  😀 Fabulous 😀 </p>
+        <p>   Junior  </p>
+ <p> Full Stack Web Developer  </p>
+        <p>🚀 soon 🚀 </p>
